@@ -2,7 +2,7 @@
 
 Repo: https://github.com/ucsb-cs156-f23/jpa02-chelseastoner.git
 
-Deployed at: https://jpa02-chelseastoner.dokku-08.cs.ucsb.edu
+Deployed at: http://jpa02-chelseastoner.dokku-08.cs.ucsb.edu
 
 # About this repo
 
